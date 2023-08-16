@@ -6,3 +6,4 @@ matplotlib
 uuid
 pillow >= 9.3
 streamlit_autorefresh
+streamlit_lottie
