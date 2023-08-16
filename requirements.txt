@@ -5,3 +5,4 @@ torchvision
 matplotlib
 uuid
 pillow >= 9.3
+streamlit_autorefresh
